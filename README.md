@@ -10,3 +10,4 @@ Absolute places an element relative to its parent's position and changing the la
 static positioning means that every element has a static position by default, so the element will stick to the normal page flow.
 Elements placed in static position are not affected by the right,left,top or bottom properties.
 Fixed positioning is when an element is positioned relative to the browser window,and that element is usually removed from the normal flow,that element can also overlap other elements
+Overflow property shows what to do incase an element is too big and may overlap other elements ie uses scroll,hidden or visible
