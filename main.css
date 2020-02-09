@@ -1,0 +1,7 @@
+p.one {
+	position:absolute;
+	left:150px;
+	top:100px;
+}
+/*an element can be placed anyway on the page with absolute positioning,
+the element with absolute positioning are usually removed from the normal posotioning and thus can overlap other elements*/
